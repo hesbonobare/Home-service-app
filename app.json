@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Home Service",
+    "slug": "home-service",
+    "description": "We care for your Home",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/829393.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/3385065-200.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.afakryda123.homeservice"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0facea35-7f96-4a46-8356-2d0bcee203f3"
+      }
+    }
+  }
+}
